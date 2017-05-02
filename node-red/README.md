@@ -1,6 +1,13 @@
 Node Red TE Light Demo Dashboard
 ================================
 
+Node red flow to read from 
+
+## Before Deploying
+
+Set your Arrow Connect API key, gateway HID, and device HID in the **SetGlobals** function toward the top of the flow.
+
+
 
 ## Additional Requirements
 
