@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1493412154091,
+        "modified": 1493412154091,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "dadc.js": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "dadc.js"
+      },
+      "etg.js": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "etg.js"
+      },
+      "icon.png": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1493666645662,
+        "modified": 1493666645662,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1493601200000,
+        "modified": 1493601200000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "TE-Demo.xdk": {
+        "previousModTime": 1493601197000,
+        "modified": 1493601197000,
+        "seen": true,
+        "name": "TE-Demo.xdk"
+      },
+      "TE-Demo.xdke": {
+        "previousModTime": 1493667407117,
+        "modified": 1493667407117,
+        "seen": true,
+        "name": "TE-Demo.xdke"
+      },
+      "te-i2c.js": {
+        "previousModTime": 1493650416824,
+        "modified": 1493650416824,
+        "seen": true,
+        "name": "te-i2c.js"
+      },
+      "udp.js": {
+        "previousModTime": 1493601200000,
+        "modified": 1493601200000,
+        "seen": true,
+        "name": "udp.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1493601200000,
+        "modified": 1493601200000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1493667590222
+      }
+    }
+  }
+}
