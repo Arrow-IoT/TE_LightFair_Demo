@@ -12,3 +12,4 @@ This script creates a custom device type to to send voltage, current, light, tem
 
 Use the Arrow Connect Portal to create the device type using this example:
 
+![Arrow Connect Custom Device Type](https://github.com/Arrow-IoT/TE_LightFair_Demo/raw/master/Documentation/te-multisensor-ac-device-type.png)
